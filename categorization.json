@@ -1,0 +1,47 @@
+{
+  "data": [
+    {
+      "inspectionTypeId": "4859a1da-beea-40f7-b51e-1bd91cd150bf",
+      "name": "test me puppeteer",
+      "dateCreated": "2023-06-26T16:07:28.807235+00:00",
+      "userCreated": "fea05a01-5c68-4662-bff3-271c2e3f1432",
+      "lastDateModified": "2023-06-26T16:07:28.8072388+00:00",
+      "lastUserModified": "fea05a01-5c68-4662-bff3-271c2e3f1432",
+      "status": 1
+    },
+    {
+      "inspectionTypeId": "cc8a2ae4-32a8-4eed-be9b-99b94508aa52",
+      "name": "test me puppeteer",
+      "dateCreated": "2023-06-27T13:26:33.9241056+00:00",
+      "userCreated": "fea05a01-5c68-4662-bff3-271c2e3f1432",
+      "lastDateModified": "2023-06-27T13:26:33.9241099+00:00",
+      "lastUserModified": "fea05a01-5c68-4662-bff3-271c2e3f1432",
+      "status": 1
+    },
+    {
+      "inspectionTypeId": "9dbd203d-3518-48e3-9c55-3913e2ac7fe0",
+      "name": "Tipi 2",
+      "dateCreated": null,
+      "userCreated": null,
+      "lastDateModified": "2023-05-19T12:58:24.2914135+00:00",
+      "lastUserModified": "fea05a01-5c68-4662-bff3-271c2e3f1432",
+      "status": 1
+    },
+    {
+      "inspectionTypeId": "07561aca-daba-498a-b27c-c270578da20b",
+      "name": "Tipi 3",
+      "dateCreated": null,
+      "userCreated": null,
+      "lastDateModified": "2023-05-19T12:57:44.3446159+00:00",
+      "lastUserModified": "fea05a01-5c68-4662-bff3-271c2e3f1432",
+      "status": 1
+    }
+  ],
+  "currentPage": 1,
+  "currentPageSize": 4,
+  "totalPages": 1,
+  "pageSize": 10,
+  "totalElements": 4,
+  "hasPrevious": false,
+  "hasNext": false
+}
