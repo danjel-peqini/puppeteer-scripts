@@ -4,13 +4,7 @@ const fs = require("fs");
 const request_client = require('request-promise-native');
 
 (async () => {
-    const browser = await puppeteer.launch({
-        headless: false,
-        defaultViewport: null,
-        // executablePath: 'C:/Program Files/Google/Chrome/Application/chrome.exe',
-        args: ['--start-maximized']
-
-    });
+    const browser = await puppeteer.launch();
     console.log(process.argv)
     const page = await browser.newPage();
     await page.goto('https://mps-ui-staging.3i-solutions.net/dashboard');
