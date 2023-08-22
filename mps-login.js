@@ -4,7 +4,7 @@ const fs = require("fs");
 const request_client = require('request-promise-native');
 
 (async () => {
-    const browser = await puppeteer.launch();
+    const browser = await puppeteer.launch({headless: 'new'});
     console.log(process.argv)
     const page = await browser.newPage();
     await page.goto('https://mps-ui-staging.3i-solutions.net/dashboard');
